@@ -12,7 +12,3 @@
 - conda install jupyter
 - pip install mglearn
 - conda env export >environment.yml
-
-
-##
-
